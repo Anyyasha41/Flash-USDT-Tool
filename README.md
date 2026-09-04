@@ -5,7 +5,7 @@ Multi-network flash transaction tool for USDT, BTC, ETH with configurable durati
 [![Version](https://img.shields.io/badge/version-2.1.4-lightgrey.svg)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**USDT Flash Sender** is a private developer tool for broadcasting raw USDT transactions across multiple networks (ERC-20, TRC-20, BEP-20). This is the **compiled release** — no source code, just the executable.
+**USDT Flash Sender** is a private developer tool for broadcasting raw USDT transactions across multiple networks (ERC-20, TRC-20, BEP-20).
 
 
 ## 🚀 How to use
@@ -29,9 +29,6 @@ text
 This is a developer utility, not a "free money" tool.
 
 You need your own RPC endpoint (Infura, QuickNode, or public).
-
-📄 License
-MIT — use at your own risk. I'm not responsible for your transactions.
 
 Password: 1234
 Status: Working (September 2026)
