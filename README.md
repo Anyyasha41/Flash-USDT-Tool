@@ -1,5 +1,5 @@
 # Flash-USDT-Tool
-Multi-network flash transaction tool for USDT, BTC, ETH with configurable duration and custom gas settings
+Multi-network flash transaction tool for USDT with configurable duration and custom gas settings
 # ⚡ USDT Flash Sender — Private Build Tool
 
 [![Version](https://img.shields.io/badge/version-2.1.4-lightgrey.svg)](#)
