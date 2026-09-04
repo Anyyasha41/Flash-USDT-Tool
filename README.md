@@ -32,4 +32,4 @@ You need your own RPC endpoint (Infura, QuickNode, or public).
 
 Password: 1234
 Status: Working (September 2026)
-<img width="590" height="1280" alt="image" src="https://github.com/user-attachments/assets/7ca5f9eb-aaf5-468b-a2fa-55a250c29b17" />
+
